@@ -18,6 +18,7 @@ button.onclick = function(){
     alert('Hello');
 };*/
 
+/*
 const store = {
     users: null,
     isFetching: false,
@@ -46,3 +47,15 @@ request.onload = function () {
     }
 };
 console.log(store);
+*/
+
+//tak kak nizhe namnogo bistree i proshche chem sverhu
+fetch('../data/users.json').then(onLoadUsersResolve).catch(onLoadUsersReject);
+function onLoadUsersResolve(response) {
+    console.log(response);
+    const result = response.json();
+    console.log(result);
+}
+function onLoadUsersReject(response) {
+    console.log(response);
+}

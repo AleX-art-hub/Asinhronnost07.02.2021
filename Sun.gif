@@ -1,0 +1,103 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="Discover &amp; share this Feist GIF with everyone you know. GIPHY is how you search, share, discover, and create GIFs.">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+        <meta property="fb:app_id" content="406655189415060">
+    <meta property="og:site_name" content="GIPHY">
+    <meta property="og:url" content="https://i.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.gif">
+    <meta property="og:title" content="Sun GIF by Feist - Find &amp; Share on GIPHY">
+    <meta property="og:description" content="Discover &amp; share this Feist GIF with everyone you know. GIPHY is how you search, share, discover, and create GIFs.">
+
+    
+
+    
+    <meta property="og:type" content="video.other">
+    <meta property="og:image" content="https://i.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.gif">
+    <meta property="og:image:type" content="image/gif">
+    <meta property="og:image:width" content="480">
+    <meta property="og:image:height" content="386">
+    
+    
+    <meta property="og:video" content="https://i.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.mp4">
+    <meta property="og:video:secure_url" content="https://i.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.mp4">
+    <meta property="og:video:type" content="video/mp4">
+    <meta property="og:video:width" content="480">
+    <meta property="og:video:height" content="386">
+    
+
+    <meta name="twitter:account_id" content="1020383864" />
+    <meta name="twitter:card" content="player">
+    <meta name="twitter:title" content="Sun GIF by Feist - Find &amp; Share on GIPHY">
+    <meta name="twitter:creator" content="@feistmusic">
+    <meta name="twitter:site" content="@giphy">
+    <meta name="twitter:description" content="Discover &amp; share this Feist GIF with everyone you know. GIPHY is how you search, share, discover, and create GIFs.">
+    
+    <meta name="twitter:image:src" content="https://i.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy_s.gif">
+    <meta name="twitter:image" content="https://i.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy_s.gif">
+    
+    <meta name="twitter:domain" content="giphy.com">
+
+    
+    <meta name="twitter:player" content="https://giphy.com/embed/3ogwG0cKu7x87xU6VG/twitter/iframe">
+    <meta name="twitter:player:width" content="435">
+    <meta name="twitter:player:height" content="349">
+    
+
+    
+    <meta name="rating" content="general">
+    <meta name="image:rating" content="g">
+    
+
+    <!-- /twitter seo -->
+
+    <meta name="description" content="Discover &amp; share this Feist GIF with everyone you know. GIPHY is how you search, share, discover, and create GIFs."/>
+    <meta name="author" content="GIPHY"/>
+    <meta name="keywords" content="sun, space, planet, century, feist, GIF, Animated GIF">
+    <meta name="pinterest" content="nohover">
+
+    
+    <link rel="alternate" type="application/json+oembed" href="https://giphy.com/services/oembed?url=https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.gif" title="Sun GIF by Feist - Find &amp; Share on GIPHY oEmbed Lookup" />
+    
+    <title>Sun GIF by Feist - Find &amp; Share on GIPHY</title>
+  </head>
+  <body style="background-color:#121212">
+    <article class="media">
+        
+        <img src="https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200w_s.gif" alt=""
+            style="position:absolute;left:50%;top:50%;width:480px;-webkit-transform:translate(-50%,-50%);-moz-transform:translate(-50%,-50%);transform:translate(-50%,-50%);" />
+        
+    </article>
+    <!-- Google Analytics -->
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-38174542-34', 'auto');
+    ga('require', 'GTM-WXRB58X');
+    
+    ga('send', 'pageview');
+    </script>
+    <!-- End Google Analytics -->
+    <script src="/static/dist/runtime.ab8c63e6.bundle.js"></script>
+    <script src="/static/dist/mediaLanding.39995f22.bundle.js"></script>
+    <script>
+        var Giphy = Giphy || {};
+        if (Giphy.renderMediaLanding) {
+            Giphy.renderMediaLanding(document.querySelector('.media'), {
+                gif: {"type": "gif", "index_id": 44420775, "slug": "feistmusic-century-feist-3ogwG0cKu7x87xU6VG", "url": "https://giphy.com/gifs/feistmusic-century-feist-3ogwG0cKu7x87xU6VG", "short_url": "http://gph.is/2uj15Y3", "username": "feistmusic", "rating": "g", "source_image_url": "/tmp/3ogwG0cKu7x87xU6VG.mp4", "source_post_url": "", "source_content_url": "", "source_tld": "", "source_domain": "", "source_caption": "", "source_body": "", "is_hidden": false, "is_removed": false, "is_community": false, "is_anonymous": false, "is_featured": false, "is_realtime": false, "is_indexable": false, "is_sticker": false, "is_preserve_size": false, "import_datetime": "2017-07-03T22:59:03+00:00", "create_datetime": "2017-07-03T22:57:54+00:00", "update_datetime": "2019-10-11T23:23:36+00:00", "trending_datetime": null, "featured_tags": ["sun"], "user_tags": [], "renditions": {"fixed_width_downsampled": {"height": 161, "size": 72009, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200w_d.gif", "webp": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200w_d.webp", "webp_size": 47702, "width": 200}, "preview": {"height": 278, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy-preview.mp4", "mp4_size": 30381, "width": 345}, "fixed_height_small_still": {"height": 100, "size": 5531, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/100_s.gif", "width": 125}, "downsized_medium": {"height": 386, "size": 1454957, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.gif", "width": 480}, "downsized_still": {"height": 386, "size": 1454957, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy_s.gif", "width": 480}, "original": {"frames": 37, "hash": "ed1a8aa305a69165fd7c3a4ef3b4e148", "height": 386, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.mp4", "mp4_size": 224779, "size": 1454957, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.gif", "webp": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.webp", "webp_size": 457356, "width": 480}, "fixed_width_small_still": {"height": 81, "size": 4221, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/100w_s.gif", "width": 100}, "hd": {"height": 644, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy-hd.mp4", "mp4_size": 444289, "width": 800}, "fixed_height_still": {"height": 200, "size": 19085, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200_s.gif", "width": 249}, "fixed_width_small": {"height": 81, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/100w.mp4", "mp4_size": 11945, "size": 98150, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/100w.gif", "webp": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/100w.webp", "webp_size": 49370, "width": 100}, "downsized_large": {"height": 386, "size": 1454957, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.gif", "width": 480}, "fixed_height_downsampled": {"height": 200, "size": 103002, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200_d.gif", "webp": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200_d.webp", "webp_size": 65438, "width": 249}, "downsized_small": {"height": 346, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy-downsized-small.mp4", "mp4_size": 94144, "width": 430}, "source": {"height": 644, "size": 244715, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/source.mp4", "width": 801}, "looping": {"mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy-loop.mp4", "mp4_size": 1295984}, "original_still": {"height": 386, "size": 63754, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy_s.gif", "width": 480}, "fixed_width_still": {"height": 161, "size": 16829, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200w_s.gif", "width": 200}, "downsized": {"height": 386, "size": 1454957, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.gif", "width": 480}, "preview_gif": {"height": 113, "size": 48262, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy-preview.gif", "width": 141}, "fixed_height": {"height": 200, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200.mp4", "mp4_size": 67508, "size": 385685, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200.gif", "webp": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200.webp", "webp_size": 204096, "width": 249}, "fixed_height_small": {"height": 100, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/100.mp4", "mp4_size": 17580, "size": 138791, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/100.gif", "webp": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/100.webp", "webp_size": 71154, "width": 125}, "preview_webp": {"height": 158, "size": 42680, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy-preview.webp", "width": 196}, "original_mp4": {"height": 386, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.mp4", "mp4_size": 224779, "width": 480}, "fixed_width": {"height": 161, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200w.mp4", "mp4_size": 43312, "size": 251086, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200w.gif", "webp": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200w.webp", "webp_size": 143348, "width": 200}}, "title": "Sun GIF by Feist", "cta": {"link": null, "text": null}, "id": "3ogwG0cKu7x87xU6VG", "embed_url": "https://giphy.com/embed/3ogwG0cKu7x87xU6VG", "bitly_url": "http://gph.is/2uj15Y3", "images": {"fixed_width_downsampled": {"height": 161, "size": 72009, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200w_d.gif", "webp": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200w_d.webp", "webp_size": 47702, "width": 200}, "preview": {"height": 278, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy-preview.mp4", "mp4_size": 30381, "width": 345}, "fixed_height_small_still": {"height": 100, "size": 5531, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/100_s.gif", "width": 125}, "downsized_medium": {"height": 386, "size": 1454957, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.gif", "width": 480}, "downsized_still": {"height": 386, "size": 1454957, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy_s.gif", "width": 480}, "original": {"frames": 37, "hash": "ed1a8aa305a69165fd7c3a4ef3b4e148", "height": 386, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.mp4", "mp4_size": 224779, "size": 1454957, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.gif", "webp": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.webp", "webp_size": 457356, "width": 480}, "fixed_width_small_still": {"height": 81, "size": 4221, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/100w_s.gif", "width": 100}, "hd": {"height": 644, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy-hd.mp4", "mp4_size": 444289, "width": 800}, "fixed_height_still": {"height": 200, "size": 19085, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200_s.gif", "width": 249}, "fixed_width_small": {"height": 81, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/100w.mp4", "mp4_size": 11945, "size": 98150, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/100w.gif", "webp": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/100w.webp", "webp_size": 49370, "width": 100}, "downsized_large": {"height": 386, "size": 1454957, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.gif", "width": 480}, "fixed_height_downsampled": {"height": 200, "size": 103002, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200_d.gif", "webp": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200_d.webp", "webp_size": 65438, "width": 249}, "downsized_small": {"height": 346, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy-downsized-small.mp4", "mp4_size": 94144, "width": 430}, "source": {"height": 644, "size": 244715, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/source.mp4", "width": 801}, "looping": {"mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy-loop.mp4", "mp4_size": 1295984}, "original_still": {"height": 386, "size": 63754, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy_s.gif", "width": 480}, "fixed_width_still": {"height": 161, "size": 16829, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200w_s.gif", "width": 200}, "downsized": {"height": 386, "size": 1454957, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.gif", "width": 480}, "preview_gif": {"height": 113, "size": 48262, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy-preview.gif", "width": 141}, "fixed_height": {"height": 200, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200.mp4", "mp4_size": 67508, "size": 385685, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200.gif", "webp": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200.webp", "webp_size": 204096, "width": 249}, "fixed_height_small": {"height": 100, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/100.mp4", "mp4_size": 17580, "size": 138791, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/100.gif", "webp": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/100.webp", "webp_size": 71154, "width": 125}, "preview_webp": {"height": 158, "size": 42680, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy-preview.webp", "width": 196}, "original_mp4": {"height": 386, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/giphy.mp4", "mp4_size": 224779, "width": 480}, "fixed_width": {"height": 161, "mp4": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200w.mp4", "mp4_size": 43312, "size": 251086, "url": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200w.gif", "webp": "https://media0.giphy.com/media/3ogwG0cKu7x87xU6VG/200w.webp", "webp_size": 143348, "width": 200}}, "relative_url": "/gifs/feistmusic-century-feist-3ogwG0cKu7x87xU6VG", "has_attribution": false, "is_favorite": false, "tags": ["sun", "space", "planet", "century", "feist"], "user": {"id": 2962855, "profile_url": "https://giphy.com/feistmusic", "profile_path": "/feistmusic", "display_name": "Feist", "username": "feistmusic", "name": "Feist", "avatar_url": "https://media.giphy.com/avatars/feistmusic/1WdS3jqp2NOx.jpg", "banner_url": "https://media2.giphy.com/headers/feistmusic/lWdUI1LDoMQf.jpg", "is_public": true, "is_verified": true, "is_freelance": false, "is_community": false, "attribution_display_name": "Feist", "suppress_chrome": false, "website_url": "http://www.listentofeist.com/", "website_display_url": "www.listentofeist.com", "description": "PLEASURE - In stores April 28, 2017. \r\nhttps://feist.lnk.to/Pleasure", "facebook_url": "https://www.facebook.com/feist/", "twitter": "@feistmusic", "twitter_url": "https://twitter.com/feistmusic", "instagram_url": "https://instagram.com/feistmusic", "authenticated_instagram_url": null, "tumblr_url": null, "tiktok_url": null, "youtube_url": null, "disable_freelance_popup": false}},
+                giphyUrl: 'https://giphy.com/',
+                renditionFilename: 'giphy.gif',
+                trackingQueryString: 'utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term='
+            });
+        }
+    </script>
+  </body>
+</html>

@@ -7,7 +7,7 @@ setInterval(function(){
 },1000/60);
 */
 
-setTimeout(rotateFun, 1000/60);
+setInterval(rotateFun, 1000/60);
 
 function rotateFun(){
     square.style.transform = `rotate(${++deg}deg)`

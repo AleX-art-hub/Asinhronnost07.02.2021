@@ -48,7 +48,7 @@ request.onload = function () {
 };
 console.log(store);
 */
-
+/*
 //tak kak nizhe namnogo bistree i proshche chem sverhu
 fetch('../data/users.json').then(onLoadUsersResolve).catch(onLoadUsersReject);
 function onLoadUsersResolve(response) {
@@ -58,4 +58,39 @@ function onLoadUsersResolve(response) {
 }
 function onLoadUsersReject(response) {
     console.log(response);
+}*/
+
+//PROMISE
+let isMoneyEnough = true;
+
+let buyNewCar = new Promise(
+    function (resolve, reject) {
+        if (isMoneyEnough) {
+            let newCar = { model: 'reno Kengo', color: 'black', year: 1984, price: 500 }
+            resolve(newCar);
+        } else {
+            let reason = new Error('to be continue...');
+            reject(reason)
+        }
+    }
+);
+
+let getCar = function () {
+    buyNewCar
+        .then(function (result) {
+            console.log(result);
+        })
+        .catch(function (error) {
+            console.log(error.message);
+        });
+};
+getCar();
+
+//async-await - vizov function asinhronno
+async function getCar{
+    try {
+        let newCar = await buyNewCar;
+    } catch (error) {
+        console.log(error.message);
+    }
 }
